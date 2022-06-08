@@ -1,2 +1,1 @@
-##Data science use case in healthcare: Breast cancer prediction
-There are many sources of data collected by doctors and healthcare providers, including electronic health records (EHRs), wearable devices, medical research studies, and billing records.The use of innovative data science techniques and data analysis is gradually revolutionizing the whole healthcare sector and offering the most promising and impactful solutions for its future.In particular, some highly specialized fields of healthcare such as genetics, reproductive medicine, oncology, biotechnology, radiography, predictive diagnostics, and pharmaceutics have moved to a completely new level thanks to unlocking the full potential of their data.
+
